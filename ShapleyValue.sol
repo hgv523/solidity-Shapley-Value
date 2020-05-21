@@ -256,7 +256,7 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 83;
+            amount = points * 84;
             total += amount;
             employee_one.transfer(amount);
 
@@ -264,7 +264,7 @@ contract ShapleyValue {
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 17;
+            amount = points * 16;
             total += amount;
             employee_three.transfer(amount);
 
@@ -280,7 +280,7 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 75;
+            amount = points * 76;
             total += amount;
             employee_one.transfer(amount);
 
@@ -288,7 +288,7 @@ contract ShapleyValue {
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 25;
+            amount = points * 24;
             total += amount;
             employee_three.transfer(amount);
 
@@ -304,11 +304,11 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 84;
+            amount = points * 86;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 16;
+            amount = points * 14;
             total += amount;
             employee_two.transfer(amount);
 
@@ -328,15 +328,15 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 71;
+            amount = points * 73;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 14;
+            amount = points * 13;
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 15;
+            amount = points * 14;
             total += amount;
             employee_three.transfer(amount);
 
@@ -352,15 +352,15 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 57;
+            amount = points * 65;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 17;
+            amount = points * 12;
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 26;
+            amount = points * 23;
             total += amount;
             employee_three.transfer(amount);
 
@@ -376,11 +376,11 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 83;
+            amount = points * 85;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 17;
+            amount = points * 15;
             total += amount;
             employee_two.transfer(amount);
 
@@ -400,15 +400,15 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 68;
+            amount = points * 70;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 16;
+            amount = points * 15;
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 16;
+            amount = points * 15;
             total += amount;
             employee_three.transfer(amount);
 
@@ -424,11 +424,11 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 56;
+            amount = points * 55;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 18;
+            amount = points * 19;
             total += amount;
             employee_two.transfer(amount);
 
@@ -472,7 +472,7 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 87;
+            amount = points * 88;
             total += amount;
             employee_one.transfer(amount);
 
@@ -480,7 +480,7 @@ contract ShapleyValue {
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 13;
+            amount = points * 12;
             total += amount;
             employee_three.transfer(amount);
 
@@ -496,7 +496,7 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 77;
+            amount = points * 79;
             total += amount;
             employee_one.transfer(amount);
 
@@ -504,7 +504,7 @@ contract ShapleyValue {
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 23;
+            amount = points * 21;
             total += amount;
             employee_three.transfer(amount);
 
@@ -520,11 +520,11 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 88;
+            amount = points * 90;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 12;
+            amount = points * 10;
             total += amount;
             employee_two.transfer(amount);
 
@@ -544,15 +544,15 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 73;
+            amount = points * 76;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 13;
+            amount = points * 11;
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 14;
+            amount = points * 12;
             total += amount;
             employee_three.transfer(amount);
 
@@ -568,15 +568,15 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 60;
+            amount = points * 63;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 15;
+            amount = points * 14;
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 25;
+            amount = points * 23;
             total += amount;
             employee_three.transfer(amount);
 
@@ -592,11 +592,11 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 87;
+            amount = points * 89;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 13;
+            amount = points * 11;
             total += amount;
             employee_two.transfer(amount);
 
@@ -616,15 +616,15 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 72;
+            amount = points * 75;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 14;
+            amount = points * 13;
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 14;
+            amount = points * 13;
             total += amount;
             employee_three.transfer(amount);
 
@@ -640,15 +640,15 @@ contract ShapleyValue {
             uint total;
             uint amount;
 
-            amount = points * 56;
+            amount = points * 60;
             total += amount;
             employee_one.transfer(amount);
 
-            amount = points * 17;
+            amount = points * 16;
             total += amount;
             employee_two.transfer(amount);
 
-            amount = points * 26;
+            amount = points * 24;
             total += amount;
             employee_three.transfer(amount);
 
